@@ -3813,7 +3813,7 @@ __metadata:
     jszip: ^3.10.1
     jszip-utils: ^0.1.0
     lucide-react: ^0.295.0
-    marked: ^11.1.0
+    marked: ^12.0.2
     msw: ^1.3.2
     papaparse: ^5.4.1
     react: ^18.2.0
@@ -7554,12 +7554,21 @@ __metadata:
   languageName: node
   linkType: hard
 
-"marked@npm:*, marked@npm:^11.1.0":
+"marked@npm:*":
   version: 11.1.1
   resolution: "marked@npm:11.1.1"
   bin:
     marked: bin/marked.js
   checksum: e30e16bf1d2c6627fff4369ffef73a1fbec629c5d18be76fc1f9c36f3df96499845bb7785f73313d06082b4562307e4f314f35eaa24ac737c176234b4bf24982
+  languageName: node
+  linkType: hard
+
+"marked@npm:^12.0.2":
+  version: 12.0.2
+  resolution: "marked@npm:12.0.2"
+  bin:
+    marked: bin/marked.js
+  checksum: 966422e2ba519294aa657bacb2e51784e4b641c1c8f15bdf9315878993c4ea09fe0d00ba2da761e443a3c52cc285c452644fd107ab0f356669bd5aac08d5c0bd
   languageName: node
   linkType: hard
 
